@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+    <img width="100" src=".github/assets/esquilo1.png">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/esquilo5.png"
     width="400"  
 />
 </p>
@@ -89,4 +89,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Editado por [Gabriel Pistilli](https://github.com/pistilligabriel)
